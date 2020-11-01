@@ -1,0 +1,18 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+
+.banner h2 {
+  font-weight: 400;
+  color: #B3B6B4;
+}
+.btn-secondary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: white;
+}
